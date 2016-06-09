@@ -1,3 +1,6 @@
+// AUTHOR: Duncan Tilley
+// This class defines the behaviour and attributes of the main character
+
 package flappybird;
 
 import java.awt.Color;
