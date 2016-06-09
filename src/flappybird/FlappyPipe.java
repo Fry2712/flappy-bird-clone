@@ -1,3 +1,6 @@
+// AUTHOR: Duncan Tilley
+// This class defines the behaviour of the pipe objects
+
 package flappybird;
 
 import java.awt.Dimension;
