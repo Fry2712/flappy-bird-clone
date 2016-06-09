@@ -1,3 +1,6 @@
+// AUTHOR: Duncan Tilley
+// This class creates the window frame that will display the game
+
 package flappybird;
 
 import java.awt.Frame;
