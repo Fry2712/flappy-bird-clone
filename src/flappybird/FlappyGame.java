@@ -1,3 +1,6 @@
+// AUTHOR: Duncan Tilley
+// This class is responsible for updating and displaying the game state
+
 package flappybird;
 
 import java.awt.Color;
